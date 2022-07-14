@@ -1,5 +1,5 @@
 # Calculus
-### Materials I have gathered during the Courses Calculus 1 and Calculus2
+### Materials I have gathered during the Courses Calculus 1 and Calculus 2
 
 [**Calculus 1**](https://github.com/RoronoaFilip/Calculus/tree/main/Calculus1)|[**Calculus 2**](https://github.com/RoronoaFilip/Calculus/tree/main/Calculus2)
 :-:|:-:
